@@ -3,5 +3,5 @@
 
 Bank : BELARUSBANK
 Number of card : 1658976314863178
-Cardholder name : ARTSIOM SOLOVYEV
+Cardholder name : NIKITA SEMCHENKOV
 Cash : 200
