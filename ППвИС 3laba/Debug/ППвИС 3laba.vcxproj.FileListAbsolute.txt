@@ -1,0 +1,2 @@
+D:\Visual studio\ППвИС 3laba\Debug\ППвИС 3laba.exe
+D:\Visual studio\ППвИС 3laba\Debug\ППвИС 3laba.pdb

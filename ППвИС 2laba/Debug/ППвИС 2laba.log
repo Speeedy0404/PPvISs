@@ -1,0 +1,9 @@
+﻿  name.cpp
+  Source.cpp
+D:\Visual studio\ППвИС 2laba\Source.cpp(18,38): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\Visual studio\ППвИС 2laba\Source.cpp(37,35): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\Visual studio\ППвИС 2laba\Source.cpp(61,33): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\Visual studio\ППвИС 2laba\Source.cpp(84,33): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\Visual studio\ППвИС 2laba\Source.cpp(106,20): warning C4091: : пропускается слева от "animal::Living_entities", когда ни одна переменная не объявлена
+  Создание кода...
+  ППвИС 2laba.vcxproj -> D:\Visual studio\ППвИС 2laba\Debug\ППвИС 2laba.exe
