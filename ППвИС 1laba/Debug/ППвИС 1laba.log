@@ -1,0 +1,15 @@
+﻿  Source.cpp
+  Vector.cpp
+D:\Visual studio\ППвИС 1laba\Vector.cpp(56,18): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\Visual studio\ППвИС 1laba\Vector.cpp(57,18): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\Visual studio\ППвИС 1laba\Vector.cpp(58,18): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\Visual studio\ППвИС 1laba\Vector.cpp(59,17): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\Visual studio\ППвИС 1laba\Vector.cpp(60,17): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\Visual studio\ППвИС 1laba\Vector.cpp(61,17): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  Создание кода...
+D:\Visual studio\ППвИС 1laba\Vector.cpp(21): warning C4172: возвращение адреса локальной или временной переменной : temp
+D:\Visual studio\ППвИС 1laba\Vector.cpp(44): warning C4172: возвращение адреса локальной или временной переменной : temp
+D:\Visual studio\ППвИС 1laba\Vector.cpp(99): warning C4172: возвращение адреса локальной или временной переменной : temp
+D:\Visual studio\ППвИС 1laba\Vector.cpp(66): warning C4172: возвращение адреса локальной или временной переменной : temp
+D:\Visual studio\ППвИС 1laba\Vector.cpp(83): warning C4172: возвращение адреса локальной или временной переменной : temp
+  ППвИС 1laba.vcxproj -> D:\Visual studio\ППвИС 1laba\Debug\ППвИС 1laba.exe
